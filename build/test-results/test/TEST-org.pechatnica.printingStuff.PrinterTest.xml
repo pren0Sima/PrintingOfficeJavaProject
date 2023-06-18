@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.pechatnica.printingStuff.PrinterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-09T09:21:16" hostname="DESKTOP-HIJI7NB" time="0.03">
+  <properties/>
+  <testcase name="letPrinterPrint Page variation exception" classname="org.pechatnica.printingStuff.PrinterTest" time="0.021"/>
+  <testcase name="letPrinterPrint not enough paper in printer exception" classname="org.pechatnica.printingStuff.PrinterTest" time="0.003"/>
+  <testcase name="letPrinterPrint Color Exception" classname="org.pechatnica.printingStuff.PrinterTest" time="0.001"/>
+  <testcase name="loadPrinterWithPages exception test" classname="org.pechatnica.printingStuff.PrinterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

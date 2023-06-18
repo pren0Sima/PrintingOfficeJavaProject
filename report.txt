@@ -1,0 +1,10 @@
+Printing Office report: 
+
+Printed prints: 
+Alice in Wonderland - 26.40
+Freddie Mercury - 0.29
+The New York Times - 7.56
+
+Expenses: 28.54
+Income: 34.25
+Profit: 5.71
